@@ -12,6 +12,7 @@ $ python main.py
 
 ## Credits
 Pseudocode and understanding of analysis from:
+
 Cormen, T. H., & Cormen, T. H. (2001). *Introduction to algorithms*. Cambridge, Mass: MIT Press.
 
 ## License
